@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\pre-dexed\debug\androidplot-core-0.6.1-3e16901786ca3225ede9f3871e0f91a43e80f677.jar"
+        jar="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\libs\androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc"/>
+    <item
+        dex="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.0 (4)-72b15e82b455aa10e71a348d68fb61ad7cd0ad48.jar"
+        jar="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\libs\org.eclipse.paho.client.mqttv3-1.0.0 (4).jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5018713f401ee58f3f2418a588ee64fba35cbe48"/>
+    <item
+        dex="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-5058243dd806d682f65197c0b7a846590739d23a.jar"
+        jar="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\libs\org.eclipse.paho.android.service.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fb941cd1bea6673e511fe39ffe457b806037ac62"/>
+    <item
+        dex="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-10ba3524fe06edd61f4d82ef353563a86589734a.jar"
+        jar="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\pre-dexed\debug\classes-c4117cace1f86f05832f623a6d669c7ed2a4e654.jar"
+        jar="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\pre-dexed\debug\GraphView-3.1.3-344166d0429dcc2d13910b272bfd6391de00f5fd.jar"
+        jar="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\libs\GraphView-3.1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="672e4a5d8906ab21665dcc08c1f7edb6efd6f903"/>
+    <item
+        dex="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\pre-dexed\debug\classes-fd7898a01b039c3aba4185059f453b2cb267d76a.jar"
+        jar="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Juancarlos\Downloads\PahoDemo3 - Copy\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-97c8646dce8d52838353ff7b6d466f2d2e03f7e7.jar"
+        jar="C:\Program Files (x86)\Android\android-studio5\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>

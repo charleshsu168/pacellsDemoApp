@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</FrameLayout>
+<!-- From: file:/C:/Users/Juancarlos/Downloads/PahoDemo3%20-%20Copy/app/src/main/res/layout/graph_main_layout.xml -->

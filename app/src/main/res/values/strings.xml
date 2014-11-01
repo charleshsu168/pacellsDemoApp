@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PalCells Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="soc_string">SOC</string>
+    <string name="power_string">Power</string>
+    <string name="current_string">Current</string>
+    <string name="temp_string">Temperature</string>
+    <string name="voltage_string">Voltage</string>
+    <string name="default_string">0</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_google_api_client_sample">GoogleApiClientSample</string>
+    <string name="title_activity_serial">SerialActivity</string>
+    <string name="serial_text_label">Please type in your device serial number</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_simple_xyplot">SimpleXYPlotActivity</string>
+    <string name="title_activity_stack_graph">StackGraphActivity</string>
+    <string name="title_activity_graph_view">GraphViewActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_main_activity1">MainActivity1</string>
+    <string name="title_activity_real_time">RealTime</string>
+
+</resources>

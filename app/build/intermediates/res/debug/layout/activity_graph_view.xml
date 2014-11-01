@@ -1,0 +1,14 @@
+<LinearLayout
+    android:id="@+id/activity_graph_view"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/graphview1"
+        android:background="#ff000000"></LinearLayout>
+</LinearLayout><!-- From: file:/C:/Users/Juancarlos/Downloads/PahoDemo3%20-%20Copy/app/src/main/res/layout/activity_graph_view.xml -->
