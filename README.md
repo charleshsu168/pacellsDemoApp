@@ -12,6 +12,14 @@ while the python battery script is running. To run the script, at RPI commandlin
 
 
 Tested on Android 4.4 KitKat Nexus 5
+<h2>Installation</h2>
+
+Clone this project into the desktop and then import it into Android Studio and build.
+
+You can also just download the pre-compiled android package app-debug.apk file at https://github.com/charleshsu168/pacellsDemoApp/tree/master/app/build/outputs/apk and emailing the file to your android device as attachment to install it. Click accept when it ask permission to install.   
+
+
+<h2>How to use</h2>
 
 <img src="https://raw.githubusercontent.com/charleshsu168/pacellsDemoApp/master/screenshots/screen1.png" />
 
@@ -19,10 +27,6 @@ Tested on Android 4.4 KitKat Nexus 5
 <img src="https://raw.githubusercontent.com/charleshsu168/pacellsDemoApp/master/screenshots/screen2.png" />
 
 <img src="https://raw.githubusercontent.com/charleshsu168/pacellsDemoApp/master/screenshots/screen3.png" />
-<h2>Installation</h2>
 
-Import this project into Android Studio and build the project.
-
-<h2>How to use</h2>
 
 
