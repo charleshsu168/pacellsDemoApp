@@ -3,7 +3,7 @@ Pacells App for Android
 
 <h2>What is Palcells App</h2>
 Palcells App is a demo app for Android to monitor Palcell battery pack usages including: state of charge,  current, voltages, temperature, 
-power. 
+power. It display those information in real time and in srollable and zoomable graphs. 
 
 Raspberry Pi's battery script, xbmslog.py, publishes realtime data to Xively MQTT cloud server. 
 https://xively.com/feeds/577572561
