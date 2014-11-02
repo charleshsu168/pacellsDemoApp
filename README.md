@@ -13,9 +13,7 @@ The Palcells app subscribe to feed at the Xively's MQTT publishing server and di
 To run the battery script, at RPI commandline type: sudo xbmslog 
 
 Future implementations may include: 
-Calculate realtime data for state of health, time to full charge, time to empty, and energy consumptions. 
-
-Draw the realtime data in the graphs and charts, which are currently randomly generated.
+Calculate realtime data for state of health, time to full charge, time to empty, and energy consumptions. Draw the realtime data in the graphs and charts, which are currently randomly generated. Implement the app to support multile android devices and screen orientations. 
 
 
 Tested on Android 4.4 KitKat Nexus 5
